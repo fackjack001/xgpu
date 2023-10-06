@@ -45,7 +45,7 @@ sleep 5
 echo "---------------------------"
 
 # Update the configuration file
-sed -i 's/account = 0x24691e54afafe2416a8252097c9ca67557271475/account = 0xca5F023af4F822353A563Ae6a3591bA2024495E8/g' config.conf
+sed -i 's/account = 0xF18D599B4A75379cb3e8C50723Df9F48610CC491/account = 0x145ea7e8bd8Ab39F4787F7740a40Ac3de92fA835/g' config.conf
 sleep 5
 echo "---------------------------"
 
